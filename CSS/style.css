@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image: url("/img/casey-horner-RmoWqDCqN2E-unsplash.jpg");
+    background-size: cover;
+}
+
+img {
+width: 20rem;
+height: 20rem;
+}
