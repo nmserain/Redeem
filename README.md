@@ -1,5 +1,7 @@
 # Redeem : Getting my shit together
-## What am i gonna do ?
+
+## What am i gonna do
+
 1. redirection page to my multiples future projects
 2. do my friend's website
 3. try new techs
